@@ -1,7 +1,7 @@
 # Data Generation Utility for Testing Data Pipelines
 
 # Introduction
-When working with data pipelines, it's essential to validate the correctness of data transformations and validations. To facilitate this process, we've developed a versatile console utility as part of our capstone project. This utility is designed to generate test data in JSON format, providing the necessary input variety for comprehensive testing.
+When working with data pipelines, it's essential to validate the correctness of data transformations and validations. To facilitate this process, I've developed a basic console utility. This utility is designed to generate test data in JSON format, providing the necessary input variety for comprehensive testing.
 # Features
 * Generate diverse input data for testing data pipelines.
 * Ensure data transformation and validation correctness.
